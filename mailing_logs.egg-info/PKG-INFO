@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: mailing-logs
-Version: 0.1
+Version: 0.2
 Summary: Easy logs mailing
 Home-page: https://github.com/cicwak/mailing-logs
-Download-URL: https://github.com/cicwak/mailing-logs/archive/refs/tags/0.1.tar.gz
+Download-URL: https://github.com/cicwak/mailing-logs/archive/refs/tags/0.2.tar.gz
 Author: Konstantin Ponomarev(cicwak)
 Author-email: cicwak@gmail.com
 License: MIT

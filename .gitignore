@@ -3,3 +3,6 @@ venv/
 main.py
 
 __pycache__/
+
+*.egg-info/
+dist/
